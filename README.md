@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mr. Siemsie and 17 years old
 - 👀 I’m very interesting in Developing
-- 🌱 I’m currently learning Html/Css/Javascript/PHP and C#/Xaml
+- 🌱 I’m currently learning Html/Css/Javascript/PHP/React Native and C#/Xaml
 - 📫 Reach me on Discord, #siemsie_69
 - 😄 Pronouns: He/Him
