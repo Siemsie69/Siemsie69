@@ -3,10 +3,10 @@
 <h3 align="left">About Me</h3> 
 <p>Hello, I'm Siem, an 18-year-old from the Netherlands studying Software Development. I enjoy coding, design, and exploring how technology works. My second hobby is photgraphy, I love to make photo's of the nature and animals.</p> <h3 align="left">What I Do</h3> <p>I focus on Front-End Development, creating user-friendly and visually appealing websites. My work blends design and functionality to deliver seamless digital experiences.</p> 
 
+<h3>PORTFOLIO COMMING SOON!</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/siem-van-bree-b0b68b269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siem van bree" height="30" width="40" /> </a> </p>
-
-<h2>PORTFOLIO COMMING SOON!</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
