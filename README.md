@@ -1,9 +1,7 @@
-<h1>Hii Hello Welcome at my Github, I am Mr. Siemsie</h1> 
+<h1>Hello Welcome at my Github, I am Siem</h1> 
 
 <h3 align="left">About Me</h3> 
-<p>Hello! I'm Siem or Siemsie, a 18-year-old from the Netherlands with a lifelong curiosity about how things work. My fascination with technology led me to discover a passion for coding and design. This journey has driven me to pursue studies in Software Development, where I continue to explore the vast world of programming and digital creation.</p>
-<h3 align="left">What I Do</h3> 
-<p>I am passionate about crafting engaging digital experiences, with a strong focus on Front-End Development. I thrive on blending creativity and functionality to build user-friendly, visually compelling websites that not only look great but also provide a seamless user experience. My goal is to create digital solutions that leave a lasting impact and contribute to a more connected world.</p>
+<p>Hello, I'm Siem, an 18-year-old from the Netherlands studying Software Development. I enjoy coding, design, and exploring how technology works.</p> <h3 align="left">What I Do</h3> <p>I focus on Front-End Development, creating user-friendly and visually appealing websites. My work blends design and functionality to deliver seamless digital experiences.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/siem-van-bree-b0b68b269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siem van bree" height="30" width="40" /> </a> </p>
