@@ -24,5 +24,3 @@
   <a href="https://nl.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Laravel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siemsie69&show_icons=true&locale=en&layout=compact" alt="siemsie69" /> </p>
