@@ -1,7 +1,12 @@
 <h1>Hello Welcome at my Github, I am Siem</h1> 
 
 <h3 align="left">About Me</h3> 
-<p>Hello, I'm Siem, an 18-year-old from the Netherlands studying Software Development. I enjoy coding, design, and exploring how technology works. My second hobby is photgraphy, I love to make photo's of the nature and animals.</p> <h3 align="left">What I Do</h3> <p>I focus on Front-End Development, creating user-friendly and visually appealing websites. My work blends design and functionality to deliver seamless digital experiences.</p> 
+<p>Hello, I'm Siem, an 18-year-old from the Netherlands studying Software Development. I enjoy coding, design, and exploring how technology works. My second hobby is photgraphy, I love to make photo's of the nature and animals.</p> 
+
+<h3 align="left">What I Do</h3> 
+<p>I work in both Front-End and Back-End Development, crafting user-friendly and visually engaging websites. I enjoy merging design with functionality to create seamless digital experiences, and I’m comfortable working on both the Front-End and Back-End to deliver well-rounded web solutions. My toolkit includes Laravel, Tailwind CSS, and JavaScript.</p> 
+<br> 
+<p>In addition to web development, I also build desktop applications using C#. While it can be challenging at times, it's a rewarding experience that sharpens my problem-solving skills , helping me create efficient and reliable software solutions.</p>
 
 <h3>PORTFOLIO COMMING SOON!</h3>
 
