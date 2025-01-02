@@ -26,11 +26,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 👀 Profile Counter
 <img src="https://profile-counter.glitch.me/Siemsie69/count.svg?" alt="Profile counter" />
 
 ### 💡Contributions 
-<img src="https://raw.githubusercontent.com/Siemsie69/Siemsie69/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siemsie69/Siemsie69/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siemsie69/Siemsie69/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Siemsie69/Siemsie69/output/github-snake.svg" />
+</picture>
