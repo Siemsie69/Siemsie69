@@ -1,4 +1,6 @@
-# Hello Welcome at my Github, I am Siem
+![Profile Banner](https://github.com/Siemsie69/Siemsie69/blob/main/profile-banner.png)
+
+# Hello World!, I am Siem, a Dutch Web Developer 👋🏼:
 
 ## 💫 About Me:
 <p>Hello, I'm Siem, an 18-year-old from the Netherlands studying Software Development. I enjoy coding, design, and exploring how technology works. My second hobby is photgraphy, I love to make photo's of the nature and animals.</p> 
