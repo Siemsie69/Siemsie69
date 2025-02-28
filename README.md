@@ -6,11 +6,11 @@
 <p>Hello, I'm Siem, an 18-year-old from the Netherlands studying Software Development. I enjoy coding, design, and exploring how technology works. My second hobby is photgraphy, I love to make photo's of the nature and animals.</p> 
 
 ## 💻 What I Do:
-<p>I work in both Front-End and Back-End Development, crafting user-friendly and visually engaging websites. I enjoy merging design with functionality to create seamless digital experiences, and I’m comfortable working on both the Front-End and Back-End to deliver well-rounded web solutions. My toolkit includes Laravel, Tailwind CSS, and JavaScript.</p> 
-<br> 
-<p>In addition to web development, I also build desktop applications using C#. While it can be challenging at times, it's a rewarding experience that sharpens my problem-solving skills , helping me create efficient and reliable software solutions.</p>
+<p>I’m Siem, an 18-year-old software development student at Summa College in Eindhoven, the Netherlands. I build websites and desktop applications, working on both the frontend and backend. I’ve worked on projects for real companies and schools, which has helped me gain experience and improve my skills.</p> 
+<p>Besides web development, I also create desktop applications. I like figuring out how things work and finding solutions when something breaks. I enjoy learning new things and taking on different projects to keep improving.</p> <br> <p>Outside of coding, I like photography, especially landscapes and wildlife. I focus on capturing details in nature and using light to make photos look their best. It’s a great way to slow down and appreciate my surroundings.</p> 
+<p>👇 If you want to know more, check out my portfolio. 👇</p>
 
-## [Portfolio - Siem](https://www.siemvanbree.nl)  
+## [👉 Portfolio - Siem 👈](https://www.siemvanbree.nl)  
 
 ## 🌐 Socials:
 <div align="left">
