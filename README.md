@@ -7,7 +7,8 @@
 
 ## 💻 What I Do:
 <p>I’m Siem, an 18-year-old software development student at Summa College in Eindhoven, the Netherlands. I build websites and desktop applications, working on both the frontend and backend. I’ve worked on projects for real companies and schools, which has helped me gain experience and improve my skills.</p> 
-<p>Besides web development, I also create desktop applications. I like figuring out how things work and finding solutions when something breaks. I enjoy learning new things and taking on different projects to keep improving.</p> <br> <p>Outside of coding, I like photography, especially landscapes and wildlife. I focus on capturing details in nature and using light to make photos look their best. It’s a great way to slow down and appreciate my surroundings.</p> 
+<p>Besides web development, I also create desktop applications. I like figuring out how things work and finding solutions when something breaks. I enjoy learning new things and taking on different projects to keep improving.</p>
+<p>Outside of coding, I like photography, especially landscapes and wildlife. I focus on capturing details in nature and using light to make photos look their best. It’s a great way to slow down and appreciate my surroundings.</p> 
 
 <img src="https://github.com/Siemsie69/Siemsie69/raw/main/qrcode_siemvanbree.nl.png" alt="QR Code for siemvanbree.nl" width="250"/>
 
