@@ -14,9 +14,6 @@
 
 <p><strong>👆 Check out <a href="https://www.siemvanbree.nl">Portfolio - Siem</a> 👆</strong></p>
 
-### 👀 Profile Counter
-<img src="https://profile-counter.glitch.me/Siemsie69/count.svg?" alt="Profile counter" />
-
 ### 💡Contributions 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siemsie69/Siemsie69/output/github-snake-dark.svg" />
