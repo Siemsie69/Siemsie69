@@ -5,7 +5,7 @@
 # 👋🏼 Hello World! I'm Siem — a Dutch Web Developer
 
 <p>
-  I'm <strong>Siem</strong>, an 18-year-old software development student from the Netherlands, currently studying at <strong>Summa College</strong> in Eindhoven. 
+  I'm <strong>Siem</strong>, an 19-year-old software development student from the Netherlands, currently studying at <strong>Summa College</strong> in Eindhoven. 
   I’m passionate about web development, design, and discovering how technology works.
 </p>
 
