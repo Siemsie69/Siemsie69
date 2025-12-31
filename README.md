@@ -26,7 +26,7 @@
 <p>
   When I’m not coding, I’m often out with my camera. I enjoy photographing landscapes, animals, and cars.
   What started as a curiosity has grown into a serious hobby — now shooting mostly with my Canon EOS 60D.
-  Photography helps me slow down and appreciate the world around me.
+  Photography helps me slow down and appreciate the world around me. I have a new Nikon Z6 II
 </p>
 
 ---
