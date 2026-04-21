@@ -54,10 +54,6 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,php,symfony,mysql,git,github,tailwindcss,docker&theme=dark)](https://skillicons.dev) 
-
----
-
 ## 💡 Contributions
 
 <picture>
