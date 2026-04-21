@@ -48,8 +48,6 @@
 
 <p>
   <strong><a href="https://www.siemvanbree.nl" target="_blank">🌐 siemvanbree.nl</a></strong>  
-  <br />
-  <strong><a href="https://siemvanbree.nl/resume/Resume_Siem_van_Bree.pdf" target="_blank">📄 My Resume (English)</a></strong>
 </p>
 
 ---
