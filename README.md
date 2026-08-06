@@ -23,8 +23,8 @@
 const siem = {
   role:       "Software Developer & Photographer",
   location:   "Eindhoven, Netherlands 🇳🇱",
-  education:  "Software Development @ Summa College",
-  camera:     "Nikon Z6 II - Cars · Nature · Wildlife",
+  education:  "Software Development && Photography",
+  camera:     "Nikon Z6 II - Automotive · Nature · Wildlife",
   available:  true,
 };
 ```
