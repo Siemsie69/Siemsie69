@@ -56,9 +56,12 @@ Outside of code I photograph cars, animals, and nature with my Nikon Z6 II. Same
 
 ## `> portfolio`
 
-Come see what I've built - live projects, real work, contact.
+Come see what I've built - live projects, real work, contact. (I have 2 more sites made but I can't share those below here)
 
-[![Visit Portfolio](https://img.shields.io/badge/siemvanbree.nl-58A6FF?style=for-the-badge)](https://www.siemvanbree.nl)
+[![Visit Portfolio](https://img.shields.io/badge/siemvanbree.nl-2563eb?style=for-the-badge)](https://www.siemvanbree.nl)
+[![Photohraphy Portfolio (UNDER CONSTRUCTION)](https://img.shields.io/badge/photography.siemvanbree.nl-58A6FF?style=for-the-badge)](https://photography.siemvanbree.nl)
+[![Glosslab cardetailing Weert (CURRENTLY OFFLINE)](https://img.shields.io/badge/glosslab.nl/offline-540699?style=for-the-badge)](#!)
+[![Metaalhandel Hans Raaymakers (IN PROGRESS)](https://img.shields.io/badge/metaalhandelraaymakers.nl/inprogress-000?style=for-the-badge)](http://www.metaalhandelraaymakers.nl/)
 
 ---
 
