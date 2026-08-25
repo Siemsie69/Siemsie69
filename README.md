@@ -57,7 +57,7 @@ Outside of code I photograph cars, animals, and nature with my Nikon Z6 II. Same
 
 ## `> portfolio`
 
-Come see what I've built - live projects, real work, contact. (I have 2 more sites made but I can't share those below here)
+Come see what I've built - live projects, real work, contact. (I have more sites made but I can't share those below here)
 
 [![Visit Portfolio](https://img.shields.io/badge/siemvanbree.nl-2563eb?style=for-the-badge)](https://www.siemvanbree.nl)
 [![Photohraphy Portfolio (UNDER CONSTRUCTION)](https://img.shields.io/badge/photography.siemvanbree.nl-58A6FF?style=for-the-badge)](https://photography.siemvanbree.nl)
