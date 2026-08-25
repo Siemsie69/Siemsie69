@@ -21,11 +21,12 @@
 
 ```ts
 const siem = {
-  role:       "Software Developer & Photographer",
-  location:   "Eindhoven, Netherlands 🇳🇱",
-  education:  "Software Development && Photography",
-  camera:     "Nikon Z6 II - Automotive · Nature · Wildlife",
-  available:  true,
+    'role'      => 'Software Developer & Photographer',
+    'location'  => 'Eindhoven, Netherlands 🇳🇱',
+    'education' => 'Software Development & Photography',
+    'camera'    => 'Nikon Z6 II - Automotive Photography',
+    'website'   => 'https://www.siemvanbree.nl/en/photography',
+    'available' => true,
 };
 ```
 
