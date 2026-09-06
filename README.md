@@ -4,7 +4,7 @@
 
 <h1>Siem van Bree</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=2500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=65&lines=Software+Developer+%7C+The+Netherlands;Photographer+%7C+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=2500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=65&lines=Software+Developer+%7C+The+Netherlands;Automotive+Photographer+%7C+Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
